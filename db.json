@@ -14,6 +14,58 @@
                         "commissionBase": 7900
                     }
                 ]
+            },{
+                "cateId": 2,
+                "cateName": "口红",
+                "goodsList": [
+                    {
+                        "id": 4679,
+                        "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
+                        "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
+                        "price": 15000,
+                        "realPrice": 52000,
+                        "commissionBase": 7900
+                    }
+                ]
+            },{
+                "cateId": 3,
+                "cateName": "防晒",
+                "goodsList": [
+                    {
+                        "id": 4679,
+                        "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
+                        "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
+                        "price": 15000,
+                        "realPrice": 52000,
+                        "commissionBase": 7900
+                    }
+                ]
+            },{
+                "cateId": 4,
+                "cateName": "水乳",
+                "goodsList": [
+                    {
+                        "id": 4679,
+                        "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
+                        "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
+                        "price": 15000,
+                        "realPrice": 52000,
+                        "commissionBase": 7900
+                    }
+                ]
+            },{
+                "cateId": 5,
+                "cateName": "香水",
+                "goodsList": [
+                    {
+                        "id": 4679,
+                        "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
+                        "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
+                        "price": 15000,
+                        "realPrice": 52000,
+                        "commissionBase": 7900
+                    }
+                ]
             }
         ],
         "isUpdate": false
