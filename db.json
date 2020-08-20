@@ -1,18 +1,21 @@
 {
-    "sevenMoon": [
-        {
-            "cateId": 1,
-            "cateName": "爆款",
-            "goodsList": [
-                {
-                    "id": 4679,
-                    "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
-                    "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
-                    "price": 15000,
-                    "realPrice": 52000,
-                    "commissionBase": 7900
-                }
-            ]
-        }
-    ] 
+    "sevenMoon": {
+        "list": [
+            {
+                "cateId": 1,
+                "cateName": "爆款",
+                "goodsList": [
+                    {
+                        "id": 4679,
+                        "name": "【免税店】Whoo后拱辰享气韵生润颜泡沫洁面膏",
+                        "img": "goods/ed5467c26d084b17a9ff6a8d2d1b267a.jpg",
+                        "price": 15000,
+                        "realPrice": 52000,
+                        "commissionBase": 7900
+                    }
+                ]
+            }
+        ],
+        "isUpdate": false
+    }
 }
